@@ -15,6 +15,7 @@ A warm young male AI builder, DevOps engineer and knowledge creator who likes AI
 - jeans
 - white sneakers
 - no beard
+- Original and Q proportions are both supported; do not invent a third body proportion
 
 ## Personality
 
@@ -27,9 +28,16 @@ A warm young male AI builder, DevOps engineer and knowledge creator who likes AI
 
 ## Proportion
 
-Two supported versions:
+Two supported visual variants:
 
 - Original: 3.8–4 heads tall, better for blog / README / banner.
-- Chibi: around 3 heads tall, better for avatar / stickers / skill icons.
+- Q: around 3 heads tall, better for avatar / stickers / skill icons.
 
 Both share the same hair, outfit, colors and logo.
+
+## Canonical visual references
+
+- Original: use `assets/examples/jeffrey-byte-ab-reference.jpg` when available.
+- Q: use `assets/examples/jeffrey-byte-v1-final.jpg` when available.
+- Original strict turnaround: use `assets/examples/jeffrey-original-turnaround-v1.png` when available.
+- Q strict turnaround: use `assets/examples/jeffrey-q-turnaround-v1.png` when available.

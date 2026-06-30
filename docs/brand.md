@@ -22,7 +22,7 @@ Jeffrey Illustrations 是面向 AI 技术创作者的温暖手绘插画系统。
 | Warm Yellow | `#FFD84A` | J Logo、耳机内圈、Byte 点缀 |
 | Cream | `#FFF9EE` | 默认背景 |
 | Denim | `#88A8F5` | 牛仔裤 |
-| Soft Gray | `#D7DCE8` | 辅助线、极少量阴影 |
+| Line Dark | `#2B2F36` | 头发、线稿、深色文字 |
 
 ## Brand DNA
 
@@ -35,6 +35,15 @@ Jeffrey Illustrations 是面向 AI 技术创作者的温暖手绘插画系统。
 - Jeffrey Hair™
 - Byte 小机器人
 - 温暖蜡笔手绘质感
+
+## Canonical References
+
+Jeffrey has two supported visual variants:
+
+- [`assets/references/jeffrey-byte-ab-reference.jpg`](../assets/references/jeffrey-byte-ab-reference.jpg): Jeffrey Original, for article illustrations and technical scenes.
+- [`assets/references/jeffrey-byte-v1-final.jpg`](../assets/references/jeffrey-byte-v1-final.jpg): Jeffrey Q, for avatars, expressions, stickers and social assets.
+
+Both variants share the same brand system. Do not introduce a third untracked body proportion when generating new assets.
 
 ## Logo 使用
 

@@ -7,4 +7,4 @@
 | Warm Yellow | `#FFD84A` |
 | Cream | `#FFF9EE` |
 | Denim | `#88A8F5` |
-| Soft Gray | `#D7DCE8` |
+| Line Dark | `#2B2F36` |

@@ -11,9 +11,13 @@ Byte is a small round blue-yellow AI robot assistant.
 
 Scene: [describe one clear action and metaphor].
 
+Composition mode: [Warm Article Mode for WeChat/blog/article scenes, or Clean Skill Mode for README/docs/Skill examples].
+
 Style: warm crayon texture, thick clean outlines, cream background, high whitespace, blue-yellow brand palette, cute but not childish, technical but not cyberpunk.
 
 Text: at most 2-4 short Chinese handwritten labels, each 2-6 Chinese characters.
 
-Avoid: business suit, beard, cyberpunk, dark hacker room, anime eyes, 3D render, long text, crowded UI.
+Props: In Warm Article Mode, allow a few creator-context props only when they support the scene. In Clean Skill Mode, keep only objects required by the metaphor.
+
+Avoid: business suit, beard, cyberpunk, dark hacker room, anime eyes, 3D render, long text, crowded UI, decorative props that distract from the metaphor.
 ```

@@ -1,13 +1,33 @@
 # Notice
 
-Jeffrey Illustrations is an adaptation and personal IP redesign inspired by Ian Xiaohei Illustrations and Esther Illustrations.
+Jeffrey Illustrations is a fork / adaptation of Ian Xiaohei Illustrations, with an additional personal IP asset-system reference from Esther Illustrations.
 
-The repository intentionally keeps a similar Skill-oriented structure so users can recognize the lineage and reuse the workflow, while the character system, visual identity, prompt rules and default IP have been redesigned around Jeffrey & Byte.
+The repository intentionally keeps a similar Skill-oriented structure so users can recognize the Ian Xiaohei lineage at a glance and reuse the workflow. This includes the Skill package shape, references directory, shot-list planning flow, prompt-template pattern and QA checklist approach.
+
+The character system, visual identity, prompt defaults and current IP have been redesigned around Jeffrey & Byte.
 
 ## Inspirations
 
-- Ian Xiaohei Illustrations: https://github.com/helloianneo/ian-xiaohei-illustrations
-- Esther Illustrations: https://github.com/esthersjw/esther-illustrations
+- Structural fork / workflow base: Ian Xiaohei Illustrations, https://github.com/helloianneo/ian-xiaohei-illustrations
+- Personal IP asset-system reference: Esther Illustrations, https://github.com/esthersjw/esther-illustrations
+
+## What Is Preserved From Ian Xiaohei
+
+- Skill-oriented repository layout
+- `SKILL.md` as the invocation entry
+- `references/` as the operational prompt knowledge base
+- Shot list first, image generation second
+- QA checklist for reviewing generated images
+- Sparse, article-body illustration workflow
+
+## What Is Rebuilt For Jeffrey
+
+- Jeffrey & Byte character system
+- Blue/yellow brand color system
+- Two supported Jeffrey variants: Original and Q
+- AI Builder / DevOps / PKM / HomeLab creator positioning
+- Warm tech illustration tone
+- Jeffrey-specific prompts, constraints and visual references
 
 ## Jeffrey V1.0
 
@@ -23,4 +43,3 @@ Core visual identity:
 - Jeffrey Hair™
 - Byte robot companion
 - Warm hand-drawn crayon texture
-

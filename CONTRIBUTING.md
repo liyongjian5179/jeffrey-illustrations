@@ -2,6 +2,8 @@
 
 Thanks for your interest in Jeffrey Illustrations.
 
+This repository intentionally keeps the structure lineage of `helloianneo/ian-xiaohei-illustrations`. Contributions should respect that recognizable Skill-oriented shape while extending the Jeffrey & Byte IP system.
+
 Before contributing images or prompts, please read:
 
 - `docs/character.md`

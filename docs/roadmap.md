@@ -6,6 +6,7 @@
 - [x] Jeffrey Hair™
 - [x] Jeffrey Blue™
 - [x] Byte mascot
+- [x] Two visual variants: Jeffrey Original and Jeffrey Q
 - [x] Prompt system
 - [x] QA checklist
 
@@ -13,7 +14,7 @@
 
 - [ ] Avatar set
 - [ ] Jeffrey Original full-body
-- [ ] Jeffrey Chibi full-body
+- [ ] Jeffrey Q full-body
 - [ ] Byte standalone
 - [ ] 10 basic expressions
 - [ ] 10 basic poses

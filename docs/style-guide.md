@@ -20,6 +20,24 @@ Jeffrey Warm Tech Illustration：
 - 中文标注尽量短
 - 不要复杂 UI、复杂架构图或密集文字
 
+## 构图模式
+
+### Warm Article Mode
+
+适合公众号、博客和叙事型正文配图。
+
+- 可以保留少量创作者语境道具，例如笔记本、咖啡杯、绿植、笔筒、桌面工具。
+- 道具必须服务温暖创作者场景。
+- 道具不能抢走核心隐喻，也不能让画面变成杂物桌。
+
+### Clean Skill Mode
+
+适合 README、GitHub 文档、Skill 示例、Notion / Obsidian 笔记和方法论图。
+
+- 只保留隐喻所需物件。
+- 避免无关桌面装饰。
+- 留白更多，背景元素更少。
+
 ## 必须保留
 
 - Jeffrey Blue Hoodie
