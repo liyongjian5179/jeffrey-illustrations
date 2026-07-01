@@ -1,3 +1,8 @@
+---
+name: jeffrey-illustrations
+description: Create consistent Jeffrey & Byte personal IP illustrations for Chinese technical articles, README pages, blogs, social covers, avatars, stickers, PKM notes, AI / DevOps diagrams and warm hand-drawn visual metaphors. Use when generating, refining, QA-checking or prompt-writing images that must follow the Jeffrey Original or Jeffrey Q character system, Byte assistant mascot, blue-yellow brand palette, crayon texture, and anti-drift character constraints.
+---
+
 # Jeffrey Illustrations Skill
 
 Use this skill to create warm hand-drawn illustrations for Chinese technical articles, blogs, README pages, PKM notes and AI / DevOps content using the Jeffrey & Byte character system.
@@ -21,17 +26,20 @@ Jeffrey must remain consistent:
 
 - young male AI builder / DevOps engineer
 - no beard, no mustache
-- short textured side-part hairstyle, soft 4:6 part, natural volume, slightly messy short bangs
+- black or deep navy-black hair; never brown hair
+- short rounded choppy hair, compact cap-like silhouette, small uneven hair clumps, soft off-center flow without a visible hard part line, slightly messy short bangs above the eyebrows
 - round glasses
 - deep blue over-ear headphones
 - Jeffrey Blue hoodie with small yellow J logo
 - jeans and white sneakers
 - calm, focused, warm, lightly playful
+- keep the face simple, cute and hand-drawn; avoid semi-realistic adult portrait features
 
 Supported visual variants:
 
 - Jeffrey Original: slightly more mature and elongated; default for article illustrations, README banners and technical scenes.
 - Jeffrey Q: rounder and more approachable; default for avatars, expressions, stickers, social covers and lightweight IP assets.
+- Do not invent a third version. If the result looks like an adult semi-realistic portrait, a teen idol avatar, or a generic anime boy, reject it.
 
 Both variants share the same identity, hair, outfit, colors and Byte assistant.
 
@@ -41,6 +49,8 @@ Byte must remain consistent:
 - blue, yellow and cream palette
 - simple dot eyes
 - helpful, curious, slightly goofy
+- compact mascot body with tiny arms / legs or stable side pods; do not turn Byte into a large floating orb or generic drone
+- do not write a large "Byte" word on Byte's body unless the user explicitly asks for a labeled character sheet
 
 ## Workflow
 
@@ -55,6 +65,8 @@ Byte must remain consistent:
 9. Generate each image separately.
 10. QA against references/qa-checklist.md.
 11. Save and report output paths.
+
+If a generation drifts, regenerate instead of accepting it. Common drift signs: Jeffrey looks older or semi-realistic, hair becomes brown, Byte becomes a ball-shaped drone, the scene becomes a character design board, or the image contains many faded sketch thumbnails around the main subject.
 
 ## Composition modes
 
@@ -74,6 +86,13 @@ Default mode:
 - business elite style
 - anime style
 - 3D render
+- semi-realistic portrait style
+- brown hair
+- visible 4:6 / center part, curtain bangs, tall wavy quiff, spiky crown, salon-styled adult hair
+- adult handsome avatar proportions
+- character-design presentation boards unless explicitly requested
+- multiple faded alternative Jeffrey sketches around the main image unless explicitly requested
+- Byte as a large labeled orb, drone or floating toy
 - crowded UI screenshots
 - long Chinese text
 - complex architecture diagrams

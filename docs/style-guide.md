@@ -40,11 +40,11 @@ Jeffrey Warm Tech Illustration：
 
 ## 必须保留
 
+- 黑色或深蓝黑 Jeffrey Hair™
 - Jeffrey Blue Hoodie
 - 黄色 J Logo
 - 圆框眼镜
 - 蓝色耳机
-- Jeffrey Hair™
 - Byte（当场景需要互动时）
 
 ## 禁止
@@ -54,6 +54,10 @@ Jeffrey Warm Tech Illustration：
 - 商务精英风
 - 西装
 - 胡子
+- 棕发
+- 半写实成人头像
+- 角色设定板式构图，除非明确要求
+- 大号悬浮球形 Byte
 - 儿童绘本过度幼稚
 - 3D 渲染
 - 复杂阴影 / 渐变 / 写实材质
