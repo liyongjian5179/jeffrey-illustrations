@@ -18,7 +18,7 @@ Jeffrey 是一个温和、专注、喜欢折腾 AI、DevOps、HomeLab、Obsidian
 - 牛仔裤，浅蓝水洗质感
 - 白色运动鞋
 - 支持 Original 和 Q 两版比例，不能混成第三种随机比例
-- 脸部保持简单手绘：小鼻子、简单嘴型、温和眼神，不要半写实成人五官
+- 脸部保持圆润简单手绘：圆头、小鼻子、简单嘴型、温和圆眼，不要长脸、尖下巴、椭圆成人眼或半写实成人五官
 
 ## 两版形象
 
@@ -40,20 +40,21 @@ Jeffrey 的形象需要两版并存：
 - 两侧自然推短，不要明显渐变
 - 顶部短而圆，整体像一个紧凑的圆形发帽
 - 只允许轻微自然偏向，不要清晰分线
-- 前额自然短碎发，不遮眼睛
-- 发量有层次但不要高耸蓬松
+- 前额自然短碎发，以小发束向前落在额头上，不遮眼睛
+- 不要大面积露额头，不要把刘海整体扫向一侧
+- 发量有层次但不要高耸蓬松，头顶要低而圆，贴近头型
 - 顶部略乱、小发束清晰，后脑勺圆润
 - 不油头
 - 不背头
 - 不纹理烫
 - 不长刘海
 - 始终保持短发
-- 不要中分、明显四六分、窗帘刘海、高耸卷翘刘海、头顶尖刺感
+- 不要中分、明显四六分、窗帘刘海、高耸卷翘刘海、侧扫成人刘海、头顶尖刺感
 
 Prompt 固定写法：
 
 ```text
-short rounded choppy hair, compact cap-like silhouette, small uneven hair clumps, soft off-center flow without a visible hard part line, rounded back head, short messy bangs above the eyebrows, not covering the eyes, no visible 4:6 part, no center part, no curtain bangs, no tall wavy quiff, no spiky crown, no pompadour, no undercut, no long fringe
+short rounded choppy hair, compact cap-like silhouette, low rounded top close to the head, small uneven hair clumps, no visible hard part line, short bangs falling forward across the forehead above the eyebrows, rounded back head, not covering the eyes, no large exposed forehead, no side-swept adult bangs, no visible 4:6 part, no center part, no curtain bangs, no tall wavy quiff, no spiky crown, no pompadour, no undercut, no long fringe
 ```
 
 ## 气质
@@ -92,6 +93,7 @@ short rounded choppy hair, compact cap-like silhouette, small uneven hair clumps
 - 不要商务精英姿态
 - 不要夸张动漫眼睛
 - 不要儿童化二头身
+- 不要长脸、尖下巴、椭圆成人眼
 - 不要把 Jeffrey 文字写在衣服上
 - 除非明确要求角色设定页，不要在正文插图周围放多张淡化草图或备选头像
 

@@ -7,7 +7,9 @@ Before accepting an image, check:
 - [ ] Jeffrey has short Jeffrey Hair™
 - [ ] Hair is black or deep navy-black, not brown
 - [ ] Hair is compact and rounded with short choppy clumps, not tall, wavy or visibly parted
-- [ ] Face is simple and cute, not semi-realistic or adult-handsome
+- [ ] Bangs fall forward in small short clumps; no large exposed forehead or adult side-swept bangs
+- [ ] Top hair is low and rounded; no raised crown, spikes or big fluffy hair volume
+- [ ] Face is softly rounded and cute, not long-faced, oval-eyed, semi-realistic or adult-handsome
 - [ ] No beard / mustache
 - [ ] Round glasses
 - [ ] Deep blue headphones with yellow inner ring
@@ -26,8 +28,15 @@ Before accepting an image, check:
 
 ## Style
 
-- [ ] Warm hand-drawn crayon / colored pencil feel
-- [ ] Cream or clean light background
+- [ ] Warm hand-drawn feel with subtle crayon / colored pencil texture on characters, props and outlines
+- [ ] Background stays mostly flat and clean, not fully grainy or dirty
+- [ ] Labels, cards and UI-like panels remain clean and readable
+- [ ] Cream or clean light background close to `#FFF9EE`
+- [ ] Hoodie is close to Jeffrey Blue `#5379E8`, not purple or cyan
+- [ ] Headphones / outlines use Deep Blue `#2F56C5`
+- [ ] J logo and small accents use Warm Yellow `#FFD84A`, not orange
+- [ ] Jeans stay Denim `#88A8F5`
+- [ ] Hair and linework stay dark `#2B2F36`, not brown
 - [ ] High whitespace
 - [ ] No cyberpunk / no business elite / no 3D render
 
